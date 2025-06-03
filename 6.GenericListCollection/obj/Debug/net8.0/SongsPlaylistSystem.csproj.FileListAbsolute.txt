@@ -1,0 +1,14 @@
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\SongsPlaylistSystem\bin\Debug\net8.0\SongsPlaylistSystem.exe
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\SongsPlaylistSystem\bin\Debug\net8.0\SongsPlaylistSystem.deps.json
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\SongsPlaylistSystem\bin\Debug\net8.0\SongsPlaylistSystem.runtimeconfig.json
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\SongsPlaylistSystem\bin\Debug\net8.0\SongsPlaylistSystem.dll
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\SongsPlaylistSystem\bin\Debug\net8.0\SongsPlaylistSystem.pdb
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\SongsPlaylistSystem\obj\Debug\net8.0\SongsPlaylistSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\SongsPlaylistSystem\obj\Debug\net8.0\SongsPlaylistSystem.AssemblyInfoInputs.cache
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\SongsPlaylistSystem\obj\Debug\net8.0\SongsPlaylistSystem.AssemblyInfo.cs
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\SongsPlaylistSystem\obj\Debug\net8.0\SongsPlaylistSystem.csproj.CoreCompileInputs.cache
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\SongsPlaylistSystem\obj\Debug\net8.0\SongsPlaylistSystem.dll
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\SongsPlaylistSystem\obj\Debug\net8.0\refint\SongsPlaylistSystem.dll
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\SongsPlaylistSystem\obj\Debug\net8.0\SongsPlaylistSystem.pdb
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\SongsPlaylistSystem\obj\Debug\net8.0\SongsPlaylistSystem.genruntimeconfig.cache
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\SongsPlaylistSystem\obj\Debug\net8.0\ref\SongsPlaylistSystem.dll

@@ -1,0 +1,14 @@
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\5.Generic List Collection\bin\Debug\net8.0\5.Generic List Collection.exe
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\5.Generic List Collection\bin\Debug\net8.0\5.Generic List Collection.deps.json
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\5.Generic List Collection\bin\Debug\net8.0\5.Generic List Collection.runtimeconfig.json
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\5.Generic List Collection\bin\Debug\net8.0\5.Generic List Collection.dll
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\5.Generic List Collection\bin\Debug\net8.0\5.Generic List Collection.pdb
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\5.Generic List Collection\obj\Debug\net8.0\5.Generic List Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\5.Generic List Collection\obj\Debug\net8.0\5.Generic List Collection.AssemblyInfoInputs.cache
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\5.Generic List Collection\obj\Debug\net8.0\5.Generic List Collection.AssemblyInfo.cs
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\5.Generic List Collection\obj\Debug\net8.0\5.Generic List Collection.csproj.CoreCompileInputs.cache
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\5.Generic List Collection\obj\Debug\net8.0\5.Generic List Collection.dll
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\5.Generic List Collection\obj\Debug\net8.0\refint\5.Generic List Collection.dll
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\5.Generic List Collection\obj\Debug\net8.0\5.Generic List Collection.pdb
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\5.Generic List Collection\obj\Debug\net8.0\5.Generic List Collection.genruntimeconfig.cache
+C:\Users\P Sai vinitha\OneDrive\Desktop\hexaware_c#\5.Generic List Collection\obj\Debug\net8.0\ref\5.Generic List Collection.dll

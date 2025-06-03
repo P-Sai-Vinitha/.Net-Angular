@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\hexaware_c#\\SongsPlaylistSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C6089D-AA36-4025-B187-B4E407552FE6}|SongsPlaylistSystem.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\hexaware_c#\\songsplaylistsystem\\myplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C6089D-AA36-4025-B187-B4E407552FE6}|SongsPlaylistSystem.csproj|solutionrelative:myplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C6089D-AA36-4025-B187-B4E407552FE6}|SongsPlaylistSystem.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\hexaware_c#\\songsplaylistsystem\\iplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C6089D-AA36-4025-B187-B4E407552FE6}|SongsPlaylistSystem.csproj|solutionrelative:iplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C6089D-AA36-4025-B187-B4E407552FE6}|SongsPlaylistSystem.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\hexaware_c#\\songsplaylistsystem\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C6089D-AA36-4025-B187-B4E407552FE6}|SongsPlaylistSystem.csproj|solutionrelative:song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C6089D-AA36-4025-B187-B4E407552FE6}|SongsPlaylistSystem.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\hexaware_c#\\songsplaylistsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C6089D-AA36-4025-B187-B4E407552FE6}|SongsPlaylistSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyPlaylist.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\hexaware_c#\\SongsPlaylistSystem\\MyPlaylist.cs",
+              "RelativeDocumentMoniker": "MyPlaylist.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\hexaware_c#\\SongsPlaylistSystem\\MyPlaylist.cs",
+              "RelativeToolTip": "MyPlaylist.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:39:47.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPlaylist.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\hexaware_c#\\SongsPlaylistSystem\\IPlaylist.cs",
+              "RelativeDocumentMoniker": "IPlaylist.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\hexaware_c#\\SongsPlaylistSystem\\IPlaylist.cs",
+              "RelativeToolTip": "IPlaylist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:39:30.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\hexaware_c#\\SongsPlaylistSystem\\Song.cs",
+              "RelativeDocumentMoniker": "Song.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\hexaware_c#\\SongsPlaylistSystem\\Song.cs",
+              "RelativeToolTip": "Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:39:08.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\hexaware_c#\\SongsPlaylistSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\hexaware_c#\\SongsPlaylistSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:38:29.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
