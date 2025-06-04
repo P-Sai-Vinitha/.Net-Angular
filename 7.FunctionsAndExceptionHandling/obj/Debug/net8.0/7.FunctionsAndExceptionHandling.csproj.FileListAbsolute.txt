@@ -1,0 +1,14 @@
+C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\7.FunctionsAndExceptionHandling\bin\Debug\net8.0\7.FunctionsAndExceptionHandling.exe
+C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\7.FunctionsAndExceptionHandling\bin\Debug\net8.0\7.FunctionsAndExceptionHandling.deps.json
+C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\7.FunctionsAndExceptionHandling\bin\Debug\net8.0\7.FunctionsAndExceptionHandling.runtimeconfig.json
+C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\7.FunctionsAndExceptionHandling\bin\Debug\net8.0\7.FunctionsAndExceptionHandling.dll
+C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\7.FunctionsAndExceptionHandling\bin\Debug\net8.0\7.FunctionsAndExceptionHandling.pdb
+C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\7.FunctionsAndExceptionHandling\obj\Debug\net8.0\7.FunctionsAndExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\7.FunctionsAndExceptionHandling\obj\Debug\net8.0\7.FunctionsAndExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\7.FunctionsAndExceptionHandling\obj\Debug\net8.0\7.FunctionsAndExceptionHandling.AssemblyInfo.cs
+C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\7.FunctionsAndExceptionHandling\obj\Debug\net8.0\7.FunctionsAndExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\7.FunctionsAndExceptionHandling\obj\Debug\net8.0\7.FunctionsAndExceptionHandling.dll
+C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\7.FunctionsAndExceptionHandling\obj\Debug\net8.0\refint\7.FunctionsAndExceptionHandling.dll
+C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\7.FunctionsAndExceptionHandling\obj\Debug\net8.0\7.FunctionsAndExceptionHandling.pdb
+C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\7.FunctionsAndExceptionHandling\obj\Debug\net8.0\7.FunctionsAndExceptionHandling.genruntimeconfig.cache
+C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\7.FunctionsAndExceptionHandling\obj\Debug\net8.0\ref\7.FunctionsAndExceptionHandling.dll
