@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\CodeFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7F30A1-F7D5-4789-940D-DE8112EA3EE6}|..\\EventDb\\EventDb.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\eventdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7F30A1-F7D5-4789-940D-DE8112EA3EE6}|..\\EventDb\\EventDb.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\eventdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\dal\\dataaccess\\sessioninforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\dal\\dataaccess\\isessioninforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\dal\\models\\speakersdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\dal\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\dal\\models\\participanteventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\dal\\models\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\dal\\models\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\dal\\dataaccess\\userinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\dal\\dataaccess\\iuserinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\dal\\dataaccess\\ieventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core\\dal\\dataaccess\\eventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appSettings.json",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\EventDb\\appSettings.json",
+              "RelativeDocumentMoniker": "..\\EventDb\\appSettings.json",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\EventDb\\appSettings.json",
+              "RelativeToolTip": "..\\EventDb\\appSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T19:19:10.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\EventDb\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EventDb\\Program.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\EventDb\\Program.cs",
+              "RelativeToolTip": "..\\EventDb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:13:02.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\Models\\UserInfo.cs",
+              "RelativeToolTip": "..\\DAL\\Models\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:23:42.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appSettings.json",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\appSettings.json",
+              "RelativeDocumentMoniker": "..\\DAL\\appSettings.json",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\appSettings.json",
+              "RelativeToolTip": "..\\DAL\\appSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T17:34:56.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionInfoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\DataAccess\\SessionInfoRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DataAccess\\SessionInfoRepo.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\DataAccess\\SessionInfoRepo.cs",
+              "RelativeToolTip": "..\\DAL\\DataAccess\\SessionInfoRepo.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:47:15.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISessionInfoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\DataAccess\\ISessionInfoRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DataAccess\\ISessionInfoRepo.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\DataAccess\\ISessionInfoRepo.cs",
+              "RelativeToolTip": "..\\DAL\\DataAccess\\ISessionInfoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:45:51.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpeakersDetails.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\Models\\SpeakersDetails.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Models\\SpeakersDetails.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\Models\\SpeakersDetails.cs",
+              "RelativeToolTip": "..\\DAL\\Models\\SpeakersDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:25:20.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\Models\\SessionInfo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Models\\SessionInfo.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\Models\\SessionInfo.cs",
+              "RelativeToolTip": "..\\DAL\\Models\\SessionInfo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:25:48.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParticipantEventDetails.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\Models\\ParticipantEventDetails.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Models\\ParticipantEventDetails.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\Models\\ParticipantEventDetails.cs",
+              "RelativeToolTip": "..\\DAL\\Models\\ParticipantEventDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:26:42.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventDetails.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\Models\\EventDetails.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Models\\EventDetails.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\Models\\EventDetails.cs",
+              "RelativeToolTip": "..\\DAL\\Models\\EventDetails.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:04:14.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\Models\\EventDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Models\\EventDbContext.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\Models\\EventDbContext.cs",
+              "RelativeToolTip": "..\\DAL\\Models\\EventDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:00:09.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\Models\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Models\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\Models\\DatabaseHelper.cs",
+              "RelativeToolTip": "..\\DAL\\Models\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:03:16.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEventDetailsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "RelativeToolTip": "..\\DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:44:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserInfoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\DataAccess\\IUserInfoRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DataAccess\\IUserInfoRepo.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\DataAccess\\IUserInfoRepo.cs",
+              "RelativeToolTip": "..\\DAL\\DataAccess\\IUserInfoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:46:35.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserInfoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\DataAccess\\UserInfoRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DataAccess\\UserInfoRepo.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\DataAccess\\UserInfoRepo.cs",
+              "RelativeToolTip": "..\\DAL\\DataAccess\\UserInfoRepo.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:47:57.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventDetailsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\DataAccess\\EventDetailsRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DataAccess\\EventDetailsRepo.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core\\DAL\\DataAccess\\EventDetailsRepo.cs",
+              "RelativeToolTip": "..\\DAL\\DataAccess\\EventDetailsRepo.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:42:21.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
