@@ -11,9 +11,12 @@ namespace DAL.Models
     {
         public static string GetConnectionString()
         {
-            var builder = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory()).AddJsonFile("appSettings.json", optional: true, reloadOnChange: true);
-            string connectionString = builder.Build().GetConnectionString("EventDbCon");
-            return connectionString;
+            var configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appSettings.json")
+                .Build();
+
+            return configuration.GetConnectionString("EventDbCon");
         }
     }
 }

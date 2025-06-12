@@ -1,9 +1,5 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DAL.Models
 {
@@ -17,16 +13,39 @@ namespace DAL.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(DatabaseHelper.GetConnectionString());
+                optionsBuilder.UseSqlServer(
+                    DatabaseHelper.GetConnectionString(),
+                    options => options.EnableRetryOnFailure(5, TimeSpan.FromSeconds(10), null)
+                );
             }
+
             base.OnConfiguring(optionsBuilder);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<UserInfo>().HasData(new UserInfo { EmailId = "admin@gmail.com", UserName = "John", Password = "admin123", Role = "Admin" });
-            modelBuilder.Entity<EventDetails>().ToTable("EventDetails");
-            modelBuilder.Entity<SessionInfo>().HasOne<EventDetails>().WithMany().HasForeignKey(s => s.EventId);
+            // === Relationships ===
+            // One Event has many Sessions
+            modelBuilder.Entity<SessionInfo>()
+                .HasOne<EventDetails>()
+                .WithMany()
+                .HasForeignKey(s => s.EventId);
+
+            // === Seed Data ===
+            modelBuilder.Entity<UserInfo>().HasData(new UserInfo
+            {
+                EmailId = "admin@gmail.com",
+                UserName = "Admin",
+                Password = "admin123",
+                Role = "Admin"
+            });
+
+            // === Shadow Property ===
+            modelBuilder.Entity<UserInfo>()
+                .Property<DateTime>("CreatedAt")
+                .HasDefaultValueSql("GETDATE()")
+                .ValueGeneratedOnAdd();
+
             base.OnModelCreating(modelBuilder);
         }
     }

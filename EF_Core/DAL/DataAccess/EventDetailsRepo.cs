@@ -44,8 +44,13 @@ namespace DAL.DataAccess
         {
             using (var dbContext = new EventDbContext())
             {
-                dbContext.Events.Add(eventDetails);
-                dbContext.SaveChanges();
+                //dbContext.Events.Add(eventDetails);
+                //dbContext.SaveChanges();
+
+                //Insertinng Data using Stored Procedure
+                var sp = $"EXEC SP_Insert_Event @EventName='{eventDetails.EventName}', @EventCategory='{eventDetails.EventCategory}', @EventDate='{eventDetails.EventDate:yyyy-MM-dd}', @Description='{eventDetails.Description}', @Status='{eventDetails.Status}'";
+                dbContext.Database.ExecuteSqlRaw(sp);
+
                 return eventDetails;
             }
         }
