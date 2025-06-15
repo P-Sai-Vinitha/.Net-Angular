@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LMS
+build_property.RootNamespace = LMS
+build_property.ProjectDir = C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\ASP.NetCore_MVC\LMS\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\P Sai vinitha\OneDrive\Desktop\.net+Angular\ASP.NetCore_MVC\LMS
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Admin/ManageCourses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlQ291cnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Admin/ManageLearners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlTGVhcm5lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Admin/ManageTrainers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlVHJhaW5lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Admin/UpdateProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Home/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Home/LearnerLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMZWFybmVyTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Home/TrainerLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFpbmVyTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Learner/dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5lclxkYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Learner/SearchContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5lclxTZWFyY2hDb250ZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Learner/UpdateProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5lclxVcGRhdGVQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Trainer/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Trainer/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Trainer/ManageContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxNYW5hZ2VDb250ZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/Trainer/UpdateProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxVcGRhdGVQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P Sai vinitha/OneDrive/Desktop/.net+Angular/ASP.NetCore_MVC/LMS/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

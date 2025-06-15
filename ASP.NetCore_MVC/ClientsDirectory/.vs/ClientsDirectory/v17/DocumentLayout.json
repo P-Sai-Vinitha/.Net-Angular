@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\ClientsDirectory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02130A07-0411-43EE-BF10-DB75118360EC}|ClientsDirectory.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\clientsdirectory\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02130A07-0411-43EE-BF10-DB75118360EC}|ClientsDirectory.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02130A07-0411-43EE-BF10-DB75118360EC}|ClientsDirectory.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\clientsdirectory\\views\\client\\clientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02130A07-0411-43EE-BF10-DB75118360EC}|ClientsDirectory.csproj|solutionrelative:views\\client\\clientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02130A07-0411-43EE-BF10-DB75118360EC}|ClientsDirectory.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\clientsdirectory\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02130A07-0411-43EE-BF10-DB75118360EC}|ClientsDirectory.csproj|solutionrelative:views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02130A07-0411-43EE-BF10-DB75118360EC}|ClientsDirectory.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\clientsdirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02130A07-0411-43EE-BF10-DB75118360EC}|ClientsDirectory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02130A07-0411-43EE-BF10-DB75118360EC}|ClientsDirectory.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\clientsdirectory\\models\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02130A07-0411-43EE-BF10-DB75118360EC}|ClientsDirectory.csproj|solutionrelative:models\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02130A07-0411-43EE-BF10-DB75118360EC}|ClientsDirectory.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\clientsdirectory\\views\\client\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02130A07-0411-43EE-BF10-DB75118360EC}|ClientsDirectory.csproj|solutionrelative:views\\client\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddClient.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\ClientsDirectory\\Views\\Client\\AddClient.cshtml",
+              "RelativeDocumentMoniker": "Views\\Client\\AddClient.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\ClientsDirectory\\Views\\Client\\AddClient.cshtml",
+              "RelativeToolTip": "Views\\Client\\AddClient.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T12:23:05.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\ClientsDirectory\\Views\\Client\\ClientDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Client\\ClientDetails.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\ClientsDirectory\\Views\\Client\\ClientDetails.cshtml",
+              "RelativeToolTip": "Views\\Client\\ClientDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T12:20:49.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\ClientsDirectory\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\ClientsDirectory\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswEQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:18:53.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientInfo.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\ClientsDirectory\\Models\\ClientInfo.cs",
+              "RelativeDocumentMoniker": "Models\\ClientInfo.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\ClientsDirectory\\Models\\ClientInfo.cs",
+              "RelativeToolTip": "Models\\ClientInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:18:02.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\ClientsDirectory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\ClientsDirectory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:31:36.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowAllClientDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\ClientsDirectory\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Client\\ShowAllClientDetails.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\ClientsDirectory\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "RelativeToolTip": "Views\\Client\\ShowAllClientDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T12:20:10.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

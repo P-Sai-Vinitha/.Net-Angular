@@ -1,0 +1,32 @@
+﻿@model List<ClientsDirectory.Models.ClientInfo>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h2>Client Directory</h2>
+<a asp-route="AddClient">Add New Client</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th><th>Name</th><th>Web</th><th>Email</th><th>Category</th><th>Standard</th><th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.ClientId</td>
+                <td>@c.CompanyName</td>
+                <td><a href="@c.WebUrl">@c.WebUrl</a></td>
+                <td>@c.Email</td>
+                <td>@c.Category</td>
+                <td>@c.Standard</td>
+                <td>
+                    <a asp-route="GetById" asp-route-id="@c.ClientId">By ID</a> |
+                    <a asp-route="GetByName" asp-route-name="@c.CompanyName">By Name</a> |
+                    <a asp-route="GetByEmail" asp-route-email="@c.Email">By Email</a> |
+                    <a asp-route="GetByCategory" asp-route-category="@c.Category">By Category</a> |
+                    <a asp-route="GetByStandard" asp-route-standard="@c.Standard">By Standard</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

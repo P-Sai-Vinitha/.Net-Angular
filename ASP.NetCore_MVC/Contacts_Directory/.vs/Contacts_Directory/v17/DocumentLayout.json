@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1539CFDB-6DA5-4DE5-9751-38C0D11CD4B6}|Contacts_Directory.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\contacts_directory\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1539CFDB-6DA5-4DE5-9751-38C0D11CD4B6}|Contacts_Directory.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1539CFDB-6DA5-4DE5-9751-38C0D11CD4B6}|Contacts_Directory.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\contacts_directory\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1539CFDB-6DA5-4DE5-9751-38C0D11CD4B6}|Contacts_Directory.csproj|solutionrelative:models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1539CFDB-6DA5-4DE5-9751-38C0D11CD4B6}|Contacts_Directory.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\contacts_directory\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1539CFDB-6DA5-4DE5-9751-38C0D11CD4B6}|Contacts_Directory.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1539CFDB-6DA5-4DE5-9751-38C0D11CD4B6}|Contacts_Directory.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\contacts_directory\\views\\contact\\showcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1539CFDB-6DA5-4DE5-9751-38C0D11CD4B6}|Contacts_Directory.csproj|solutionrelative:views\\contact\\showcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1539CFDB-6DA5-4DE5-9751-38C0D11CD4B6}|Contacts_Directory.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\contacts_directory\\views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1539CFDB-6DA5-4DE5-9751-38C0D11CD4B6}|Contacts_Directory.csproj|solutionrelative:views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1539CFDB-6DA5-4DE5-9751-38C0D11CD4B6}|Contacts_Directory.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\contacts_directory\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1539CFDB-6DA5-4DE5-9751-38C0D11CD4B6}|Contacts_Directory.csproj|solutionrelative:views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1539CFDB-6DA5-4DE5-9751-38C0D11CD4B6}|Contacts_Directory.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\contacts_directory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1539CFDB-6DA5-4DE5-9751-38C0D11CD4B6}|Contacts_Directory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetContactById.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\Views\\Contact\\GetContactById.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\GetContactById.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\Views\\Contact\\GetContactById.cshtml",
+              "RelativeToolTip": "Views\\Contact\\GetContactById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T12:00:41.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowContacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\Views\\Contact\\ShowContacts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\ShowContacts.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\Views\\Contact\\ShowContacts.cshtml",
+              "RelativeToolTip": "Views\\Contact\\ShowContacts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T12:00:00.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T12:04:50.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactInfo.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\Models\\ContactInfo.cs",
+              "RelativeDocumentMoniker": "Models\\ContactInfo.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\Models\\ContactInfo.cs",
+              "RelativeToolTip": "Models\\ContactInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T11:57:48.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T11:58:40.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\Views\\Contact\\AddContact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\AddContact.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\Views\\Contact\\AddContact.cshtml",
+              "RelativeToolTip": "Views\\Contact\\AddContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T12:01:19.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\Contacts_Directory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:01:43.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

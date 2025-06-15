@@ -1,0 +1,18 @@
+﻿@model Contacts_Directory.Models.ContactInfo
+<html>
+<head><title>Add Contact</title></head>
+<body>
+    <a asp-route="ShowContacts">Back to Contacts</a>
+    <h3>Add New Contact</h3>
+    <form asp-route="AddContact" method="post">
+        <div><label>Contact ID:</label><input asp-for="ContactId" type="number" /></div>
+        <div><label>First Name:</label><input asp-for="FirstName" /></div>
+        <div><label>Last Name:</label><input asp-for="LastName" /></div>
+        <div><label>Company Name:</label><input asp-for="CompanyName" /></div>
+        <div><label>Email:</label><input asp-for="EmailId" type="email" /></div>
+        <div><label>Mobile:</label><input asp-for="MobileNo" type="number" /></div>
+        <div><label>Designation:</label><input asp-for="Designation" /></div>
+        <div><input type="submit" value="Save Contact" /></div>
+    </form>
+</body>
+</html>

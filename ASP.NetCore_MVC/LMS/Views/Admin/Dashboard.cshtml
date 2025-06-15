@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Admin Dashboard";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Welcome to Admin Dashboard</h2>
+<ul>
+    <li><a asp-controller="Admin" asp-action="UpdateProfile">Update Profile</a></li>
+    <li><a asp-controller="Admin" asp-action="ManageCourses">Manage Courses</a></li>
+    <li><a asp-controller="Admin" asp-action="ManageTrainers">Manage Trainers</a></li>
+    <li><a asp-controller="Admin" asp-action="ManageLearners">Manage Learners</a></li>
+    <li><a asp-controller="Admin" asp-action="Logout">Logout</a></li>
+</ul>

@@ -1,0 +1,8 @@
+﻿@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Select Your Role to Login</h2>
+<a asp-action="AdminLogin" class="btn btn-primary">Admin</a>
+<a asp-action="TrainerLogin" class="btn btn-success">Trainer</a>
+<a asp-action="LearnerLogin" class="btn btn-warning">Learner</a>

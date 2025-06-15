@@ -1,0 +1,12 @@
+﻿@model Contacts_Directory.Models.ContactInfo
+<html>
+<head><title>Contact Details</title></head>
+<body>
+    <a asp-route="ShowContacts">Back to Contacts</a>
+    <h3>Contact Details: @Model.FirstName @Model.LastName</h3>
+    <div><strong>Company:</strong> @Model.CompanyName</div>
+    <div><strong>Email:</strong> @Model.EmailId</div>
+    <div><strong>Mobile:</strong> @Model.MobileNo</div>
+    <div><strong>Designation:</strong> @Model.Designation</div>
+</body>
+</html>

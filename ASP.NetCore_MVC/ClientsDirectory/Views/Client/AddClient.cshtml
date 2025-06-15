@@ -1,0 +1,37 @@
+﻿@model ClientsDirectory.Models.ClientInfo
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h3>Add New Client</h3>
+<form asp-route="SaveClient" method="post" class="form">
+    <div>
+        <label asp-for="ClientId"></label>
+        <input asp-for="ClientId" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="CompanyName"></label>
+        <input asp-for="CompanyName" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="WebUrl"></label>
+        <input asp-for="WebUrl" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="Category"></label>
+        <select asp-for="Category" class="form-control"
+                asp-items="@(new SelectList(ViewBag.Categories))">
+            <option value="">-- Select Category --</option>
+        </select>
+    </div>
+    <div>
+        <label asp-for="Standard"></label>
+        <select asp-for="Standard" class="form-control"
+                asp-items="@(new SelectList(ViewBag.Standards))">
+            <option value="">-- Select Standard --</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

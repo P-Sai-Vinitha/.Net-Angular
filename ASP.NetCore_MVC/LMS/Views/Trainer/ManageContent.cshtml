@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Manage Content";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Manage Course Content</h2>
+<form>
+    <label>Course Title:</label>
+    <input type="text" class="form-control" />
+
+    <label>Upload Material:</label>
+    <input type="file" class="form-control" />
+
+    <button class="btn btn-success mt-2">Add Content</button>
+</form>
+
+<hr />
+<h4>Existing Content</h4>
+<ul>
+    <li>Sample Course 1 <button class="btn btn-danger btn-sm">Remove</button></li>
+    <li>Sample Course 2 <button class="btn btn-danger btn-sm">Remove</button></li>
+</ul>

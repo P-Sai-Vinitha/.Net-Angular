@@ -1,0 +1,11 @@
+﻿@model ClientsDirectory.Models.ClientInfo
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h3>Client Details</h3>
+<p><strong>ID:</strong> @Model.ClientId</p>
+<p><strong>Name:</strong> @Model.CompanyName</p>
+<p><strong>Website:</strong> <a href="@Model.WebUrl">@Model.WebUrl</a></p>
+<p><strong>Email:</strong> @Model.Email</p>
+<p><strong>Category:</strong> @Model.Category</p>
+<p><strong>Standard:</strong> @Model.Standard</p>
+<a asp-route="ShowAllClients">Back to List</a>

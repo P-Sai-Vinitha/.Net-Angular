@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\trainer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\trainer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\trainer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\trainer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\trainer\\managecontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\trainer\\managecontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\trainer\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\trainer\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\home\\trainerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\home\\trainerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\home\\learnerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\home\\learnerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\home\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\home\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\admin\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\admin\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\admin\\managetrainers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\admin\\managetrainers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\admin\\managelearners.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\admin\\managelearners.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\admin\\managecourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\admin\\managecourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\learner\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\learner\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\learner\\searchcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\learner\\searchcontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\views\\learner\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:views\\learner\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\asp.netcore_mvc\\lms\\models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D758-F64C-4405-836E-B0E4725614DF}|LMS.csproj|solutionrelative:models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Trainer\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trainer\\Login.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Trainer\\Login.cshtml",
+              "RelativeToolTip": "Views\\Trainer\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:43:26.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainerController.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Controllers\\TrainerController.cs",
+              "RelativeToolTip": "Controllers\\TrainerController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA5wDMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:45:22.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Trainer\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trainer\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Trainer\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Trainer\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:15:56.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:44:47.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LearnerController.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "Controllers\\LearnerController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:56:39.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageContent.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Trainer\\ManageContent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trainer\\ManageContent.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Trainer\\ManageContent.cshtml",
+              "RelativeToolTip": "Views\\Trainer\\ManageContent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:16:56.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T12:59:56.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:00:27.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Trainer\\UpdateProfile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trainer\\UpdateProfile.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Trainer\\UpdateProfile.cshtml",
+              "RelativeToolTip": "Views\\Trainer\\UpdateProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:16:22.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TrainerLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Home\\TrainerLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\TrainerLogin.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Home\\TrainerLogin.cshtml",
+              "RelativeToolTip": "Views\\Home\\TrainerLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:05:26.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:02:04.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:32:19.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:43:49.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:51:59.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LearnerLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Home\\LearnerLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\LearnerLogin.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Home\\LearnerLogin.cshtml",
+              "RelativeToolTip": "Views\\Home\\LearnerLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:05:55.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:01:31.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Home\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Home\\AdminLogin.cshtml",
+              "RelativeToolTip": "Views\\Home\\AdminLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:05:04.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:01:04.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Admin\\UpdateProfile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\UpdateProfile.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Admin\\UpdateProfile.cshtml",
+              "RelativeToolTip": "Views\\Admin\\UpdateProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:08:11.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManageTrainers.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Admin\\ManageTrainers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageTrainers.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Admin\\ManageTrainers.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageTrainers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:12:08.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageLearners.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Admin\\ManageLearners.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageLearners.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Admin\\ManageLearners.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageLearners.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:12:45.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManageCourses.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Admin\\ManageCourses.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageCourses.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Admin\\ManageCourses.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageCourses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:11:06.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:10:31.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Learner\\UpdateProfile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Learner\\UpdateProfile.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Learner\\UpdateProfile.cshtml",
+              "RelativeToolTip": "Views\\Learner\\UpdateProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:14:34.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SearchContent.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Learner\\SearchContent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Learner\\SearchContent.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Learner\\SearchContent.cshtml",
+              "RelativeToolTip": "Views\\Learner\\SearchContent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:15:00.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Learner\\dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Learner\\dashboard.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Views\\Learner\\dashboard.cshtml",
+              "RelativeToolTip": "Views\\Learner\\dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:13:44.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:42:12.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:42:43.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Models\\Content.cs",
+              "RelativeDocumentMoniker": "Models\\Content.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\ASP.NetCore_MVC\\LMS\\Models\\Content.cs",
+              "RelativeToolTip": "Models\\Content.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:43:07.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
