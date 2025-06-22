@@ -1,0 +1,39 @@
+﻿@model List<AppUI.Models.EventDetails>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<html>
+<head>
+    <title>List of Events</title>
+</head>
+<body>
+    <h2>Event List</h2>
+    <a asp-route="AddEvent">Add New Event</a>
+    <table border="1" cellpadding="5">
+        <tr>
+            <th>EVENT ID</th>
+            <th>EVENT NAME</th>
+            <th>EVENT CATEGORY</th>
+            <th>EVENT DATE</th>
+            <th>DESCRIPTION</th>
+            <th>STATUS</th>
+            <th>Actions</th>
+        </tr>
+        @foreach (var eventDetails in Model)
+        {
+            <tr>
+                <td>@eventDetails.EventId</td>
+                <td>@eventDetails.EventName</td>
+                <td>@eventDetails.EventCategory</td>
+                <td>@eventDetails.EventDate.ToString("yyyy-MM-dd HH:mm")</td>
+                <td>@eventDetails.Description</td>
+                <td>@eventDetails.Status</td>
+                <td>
+                    <a asp-route="UpdateEvent" asp-route-id="@eventDetails.EventId">Update</a> |
+                    <a asp-route="DeleteEvent" asp-route-id="@eventDetails.EventId">Delete</a> |
+                    <a asp-route="GetEventById" asp-route-id="@eventDetails.EventId">Details</a>
+                </td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

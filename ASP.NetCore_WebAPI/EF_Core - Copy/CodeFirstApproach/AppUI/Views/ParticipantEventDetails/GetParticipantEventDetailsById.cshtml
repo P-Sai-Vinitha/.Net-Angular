@@ -1,0 +1,15 @@
+﻿@model AppUI.Models.ParticipantEventDetails
+
+<html>
+<head>
+    <title>Participant Details</title>
+</head>
+<body>
+    <h2>Participant: @Model.Id</h2>
+    <div>Email ID: @Model.ParticipantEmailId</div>
+    <div>Event ID: @Model.EventId</div>
+    <div>Attended: @Model.IsAttended</div>
+
+    <a asp-route="ParticipantEventList">Back to List</a>
+</body>
+</html>

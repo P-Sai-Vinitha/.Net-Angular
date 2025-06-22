@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\CodeFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C72240-6299-45BB-8A2E-AE8453493A43}|AppUI\\AppUI.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core - copy\\codefirstapproach\\appui\\views\\eventdetails\\geteventsbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6C72240-6299-45BB-8A2E-AE8453493A43}|AppUI\\AppUI.csproj|solutionrelative:appui\\views\\eventdetails\\geteventsbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C72240-6299-45BB-8A2E-AE8453493A43}|AppUI\\AppUI.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core - copy\\codefirstapproach\\appui\\controllers\\eventdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C72240-6299-45BB-8A2E-AE8453493A43}|AppUI\\AppUI.csproj|solutionrelative:appui\\controllers\\eventdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core - copy\\dal\\dataaccess\\eventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core - copy\\dal\\dataaccess\\ieventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA190E4-5E5B-4290-9539-DD67AD362FC9}|..\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core - copy\\servicelayer\\controllers\\eventdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C72240-6299-45BB-8A2E-AE8453493A43}|AppUI\\AppUI.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core - copy\\codefirstapproach\\appui\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C72240-6299-45BB-8A2E-AE8453493A43}|AppUI\\AppUI.csproj|solutionrelative:appui\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C16369-A88C-40E3-AA57-51AF5966CFAF}|..\\DAL\\DAL.csproj|c:\\users\\p sai vinitha\\onedrive\\desktop\\.net\u002Bangular\\ef_core - copy\\dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetEventsById.cshtml",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\CodeFirstApproach\\AppUI\\Views\\EventDetails\\GetEventsById.cshtml",
+              "RelativeDocumentMoniker": "AppUI\\Views\\EventDetails\\GetEventsById.cshtml",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\CodeFirstApproach\\AppUI\\Views\\EventDetails\\GetEventsById.cshtml",
+              "RelativeToolTip": "AppUI\\Views\\EventDetails\\GetEventsById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T21:31:11.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventDetailsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\DAL\\DataAccess\\EventDetailsRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DataAccess\\EventDetailsRepo.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\DAL\\DataAccess\\EventDetailsRepo.cs",
+              "RelativeToolTip": "..\\DAL\\DataAccess\\EventDetailsRepo.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T21:27:40.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEventDetailsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "RelativeToolTip": "..\\DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T21:25:55.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventDetails.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\CodeFirstApproach\\AppUI\\Models\\EventDetails.cs",
+              "RelativeDocumentMoniker": "AppUI\\Models\\EventDetails.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\CodeFirstApproach\\AppUI\\Models\\EventDetails.cs",
+              "RelativeToolTip": "AppUI\\Models\\EventDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T21:22:48.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\ServiceLayer\\Controllers\\EventDetailsController.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLayer\\Controllers\\EventDetailsController.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\ServiceLayer\\Controllers\\EventDetailsController.cs",
+              "RelativeToolTip": "..\\ServiceLayer\\Controllers\\EventDetailsController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowE0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T21:20:56.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\CodeFirstApproach\\AppUI\\Controllers\\EventDetailsController.cs",
+              "RelativeDocumentMoniker": "AppUI\\Controllers\\EventDetailsController.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\CodeFirstApproach\\AppUI\\Controllers\\EventDetailsController.cs",
+              "RelativeToolTip": "AppUI\\Controllers\\EventDetailsController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAIwGkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T21:20:51.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventDetails.cs",
+              "DocumentMoniker": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\DAL\\Models\\EventDetails.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Models\\EventDetails.cs",
+              "ToolTip": "C:\\Users\\P Sai vinitha\\OneDrive\\Desktop\\.net\u002BAngular\\EF_Core - Copy\\DAL\\Models\\EventDetails.cs",
+              "RelativeToolTip": "..\\DAL\\Models\\EventDetails.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T21:24:55.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

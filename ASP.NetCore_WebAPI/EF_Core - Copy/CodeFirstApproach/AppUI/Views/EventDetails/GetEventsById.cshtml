@@ -1,0 +1,19 @@
+﻿@model AppUI.Models.EventDetails
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<html>
+<head>
+    <title>Event Details</title>
+</head>
+<body>
+    <h2>Event Details: @Model.EventName</h2>
+    <div>Event ID: @Model.EventId</div>
+    <div>Category: @Model.EventCategory</div>
+    <div>Date: @Model.EventDate.ToString("yyyy-MM-dd HH:mm")</div>
+    <div>Description: @Model.Description</div>
+    <div>Status: @Model.Status</div>
+    <a asp-controller="EventDetails" asp-action="GetAllEvents">Back to List</a>
+
+</body>
+</html>

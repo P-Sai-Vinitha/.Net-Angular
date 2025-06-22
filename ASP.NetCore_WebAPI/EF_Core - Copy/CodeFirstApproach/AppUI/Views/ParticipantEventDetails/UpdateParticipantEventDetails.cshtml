@@ -1,0 +1,30 @@
+﻿@model AppUI.Models.ParticipantEventDetails
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<html>
+<head>
+    <title>Update Participant Event</title>
+</head>
+<body>
+    <h2>Update Participant</h2>
+    <form asp-route="EditParticipant" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div>
+            <label asp-for="ParticipantEmailId"></label>
+            <input type="email" asp-for="ParticipantEmailId" placeholder="Enter Email Id">
+        </div>
+        <div>
+            <label asp-for="EventId"></label>
+            <input type="number" asp-for="EventId" placeholder="Enter Event Id">
+        </div>
+        <div>
+            <label asp-for="IsAttended"></label>
+            <input type="text" asp-for="IsAttended" placeholder="Enter Attended Status (Yes/No)">
+        </div>
+        <div>
+            <input type="submit" value="Update">
+            <a asp-route="ParticipantEventList">Cancel</a>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AppUI\\AppUI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\ServiceLayer\\ServiceLayer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
