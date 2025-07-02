@@ -1,0 +1,12 @@
+.present {
+  color: green;
+  font-weight: bold;
+}
+
+.absent {
+  color: red;
+}
+
+.wfh {
+  color: blue;
+}

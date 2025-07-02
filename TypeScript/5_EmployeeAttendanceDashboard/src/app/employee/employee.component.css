@@ -1,0 +1,24 @@
+.present {
+  background-color: green;
+  color: white;
+}
+
+.absent {
+  background-color: red;
+  color: white;
+}
+
+.wfh {
+  background-color: blue;
+  color: white;
+}
+
+table {
+  width: 80%;
+  margin-top: 10px;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #f0f0f0;
+}
