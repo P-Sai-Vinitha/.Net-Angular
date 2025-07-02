@@ -1,0 +1,13 @@
+<h1>{{ title }}</h1>
+
+<div *ngIf="students.length === 0">No students found</div>
+
+<ul *ngIf="students.length > 0">
+  <li *ngFor="let s of students"
+      [ngClass]="{ 'pass': s.status, 'fail': !s.status }"
+      [ngStyle]="{ 'font-weight': s.status ? 'bold' : 'normal' }">
+    {{ s.name }} - Marks: {{ s.marks }} -
+    <span *ngIf="s.status">✅ Pass</span>
+    <span *ngIf="!s.status">❌ Fail</span>
+  </li>
+</ul>

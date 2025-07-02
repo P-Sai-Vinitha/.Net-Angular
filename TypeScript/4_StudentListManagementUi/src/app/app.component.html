@@ -1,0 +1,19 @@
+<h3>Welcome to {{title}}</h3>
+
+<ul *ngIf="students.length > 0; else noStudents">
+  <li *ngFor="let student of students"
+      [ngClass]="{'pass': student.marks >= 50, 'fail': student.marks < 50}"
+      [ngStyle]="{'font-weight': student.status ? 'bold' : 'normal'}">
+      
+    {{ student.name }} - Marks: {{ student.marks }} -
+    <span *ngIf="student.marks >= 50; else failed">✅ Pass</span>
+    <ng-template #failed>❌ Fail</ng-template>
+    
+  </li>
+</ul>
+
+<ng-template #noStudents>
+  <p>No students found.</p>
+</ng-template>
+
+<router-outlet></router-outlet>
