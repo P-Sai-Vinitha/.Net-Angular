@@ -1,0 +1,31 @@
+<h2>Template-Driven User Registration</h2>
+
+<form #form="ngForm" (ngSubmit)="onSubmit(form)">
+  <label>Full Name:</label>
+  <input type="text" name="fullName" [(ngModel)]="user.fullName" required /><br />
+
+  <label>Email:</label>
+  <input type="email" name="email" [(ngModel)]="user.email" required email /><br />
+
+  <label>Gender:</label>
+  <label><input type="radio" name="gender" [(ngModel)]="user.gender" value="Male" required /> Male</label>
+  <label><input type="radio" name="gender" [(ngModel)]="user.gender" value="Female" /> Female</label>
+  <label><input type="radio" name="gender" [(ngModel)]="user.gender" value="Other" /> Other</label><br />
+
+  <label>Country:</label>
+  <select name="country" [(ngModel)]="user.country" required>
+    <option value="">--Select--</option>
+    <option>India</option>
+    <option>USA</option>
+    <option>UK</option>
+  </select><br />
+
+  <label>
+    <input type="checkbox" name="agreeToTerms" [(ngModel)]="user.agreeToTerms" required />
+    I agree to terms
+  </label><br />
+
+  <button type="submit">Submit</button>
+  <button type="reset">clear</button>
+</form>
+
